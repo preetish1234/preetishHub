@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="85456" started-at="2016-11-02T18:00:35Z" finished-at="2016-11-02T18:02:00Z">
+    <groups>
+      <group name="Admin-Login">
+        <method signature="Apptest.AdminLogin()[pri:1, instance:com.Project.preetish.Apptest@5a8806ef]" name="AdminLogin" class="com.Project.preetish.Apptest"/>
+      </group> <!-- Admin-Login -->
+      <group name="Content-Action">
+        <method signature="Apptest.Content_Test()[pri:2, instance:com.Project.preetish.Apptest@5a8806ef]" name="Content_Test" class="com.Project.preetish.Apptest"/>
+      </group> <!-- Content-Action -->
+    </groups>
+    <test name="Default test" duration-ms="85456" started-at="2016-11-02T18:00:35Z" finished-at="2016-11-02T18:02:00Z">
+      <class name="com.Project.preetish.Apptest">
+        <test-method status="PASS" signature="BrowserEngin()[pri:0, instance:com.Project.preetish.Apptest@5a8806ef]" name="BrowserEngin" is-config="true" duration-ms="45527" started-at="2016-11-02T23:30:35Z" finished-at="2016-11-02T23:31:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserEngin -->
+        <test-method status="PASS" signature="Logconfig()[pri:0, instance:com.Project.preetish.Apptest@5a8806ef]" name="Logconfig" is-config="true" duration-ms="44" started-at="2016-11-02T23:31:20Z" finished-at="2016-11-02T23:31:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logconfig -->
+        <test-method status="PASS" signature="AdminLogin()[pri:1, instance:com.Project.preetish.Apptest@5a8806ef]" name="AdminLogin" duration-ms="2171" started-at="2016-11-02T23:31:20Z" finished-at="2016-11-02T23:31:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AdminLogin -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.Project.preetish.Apptest@5a8806ef]" name="tearDown" is-config="true" duration-ms="509" started-at="2016-11-02T23:31:22Z" finished-at="2016-11-02T23:31:23Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=AdminLogin status=SUCCESS method=Apptest.AdminLogin()[pri:1, instance:com.Project.preetish.Apptest@5a8806ef] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="Logconfig()[pri:0, instance:com.Project.preetish.Apptest@5a8806ef]" name="Logconfig" is-config="true" duration-ms="89" started-at="2016-11-02T23:31:23Z" finished-at="2016-11-02T23:31:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logconfig -->
+        <test-method status="PASS" signature="Content_Test()[pri:2, instance:com.Project.preetish.Apptest@5a8806ef]" name="Content_Test" duration-ms="35014" started-at="2016-11-02T23:31:23Z" depends-on-methods="com.Project.preetish.Apptest.AdminLogin" finished-at="2016-11-02T23:31:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Content_Test -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.Project.preetish.Apptest@5a8806ef]" name="tearDown" is-config="true" duration-ms="110" started-at="2016-11-02T23:31:58Z" finished-at="2016-11-02T23:31:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Content_Test status=SUCCESS method=Apptest.Content_Test()[pri:2, instance:com.Project.preetish.Apptest@5a8806ef] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.Project.preetish.Apptest@5a8806ef]" name="tearDown" is-config="true" duration-ms="1967" started-at="2016-11-02T23:31:58Z" finished-at="2016-11-02T23:32:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.Project.preetish.Apptest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

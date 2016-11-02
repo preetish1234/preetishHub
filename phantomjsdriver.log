@@ -1,0 +1,157 @@
+[INFO  - 2016-10-26T19:28:49.501Z] GhostDriver - Main - running on port 3563
+[INFO  - 2016-10-26T19:29:15.821Z] GhostDriver - Main - running on port 38998
+[INFO  - 2016-10-26T19:29:17.648Z] Session [7c79a650-9bb2-11e6-95c8-bb0e63048be6] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-10-26T19:29:17.649Z] Session [7c79a650-9bb2-11e6-95c8-bb0e63048be6] - page.customHeaders:  - {}
+[INFO  - 2016-10-26T19:29:17.650Z] Session [7c79a650-9bb2-11e6-95c8-bb0e63048be6] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-10-26T19:29:17.651Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 7c79a650-9bb2-11e6-95c8-bb0e63048be6
+[ERROR - 2016-10-26T19:29:28.665Z] Session [7c79a650-9bb2-11e6-95c8-bb0e63048be6] - page.onError - msg: Error: Script error for: Magento_Ui/js/lib/knockout/bindings/outer_click
+http://requirejs.org/docs/errors.html#scripterror
+[ERROR - 2016-10-26T19:29:28.666Z] Session [7c79a650-9bb2-11e6-95c8-bb0e63048be6] - page.onError - stack:
+  defaultOnError (http://online-shoping.myavactis.com/pub/static/adminhtml/Avactis/backend/en_US/requirejs/require.js:141)
+  onError (http://online-shoping.myavactis.com/pub/static/adminhtml/Avactis/backend/en_US/requirejs/require.js:537)
+  onScriptError (http://online-shoping.myavactis.com/pub/static/adminhtml/Avactis/backend/en_US/requirejs/require.js:1681)
+[ERROR - 2016-10-26T19:29:28.670Z] Session [7c79a650-9bb2-11e6-95c8-bb0e63048be6] - page.onError - msg: Error: Script error for: Magento_Ui/js/lib/knockout/bindings/staticChecked
+http://requirejs.org/docs/errors.html#scripterror
+[ERROR - 2016-10-26T19:29:28.670Z] Session [7c79a650-9bb2-11e6-95c8-bb0e63048be6] - page.onError - stack:
+  defaultOnError (http://online-shoping.myavactis.com/pub/static/adminhtml/Avactis/backend/en_US/requirejs/require.js:141)
+  onError (http://online-shoping.myavactis.com/pub/static/adminhtml/Avactis/backend/en_US/requirejs/require.js:537)
+  onScriptError (http://online-shoping.myavactis.com/pub/static/adminhtml/Avactis/backend/en_US/requirejs/require.js:1681)
+[ERROR - 2016-10-26T19:29:28.673Z] Session [7c79a650-9bb2-11e6-95c8-bb0e63048be6] - page.onError - msg: Error: Script error for: Magento_Ui/js/lib/knockout/bindings/bind-html
+http://requirejs.org/docs/errors.html#scripterror
+[ERROR - 2016-10-26T19:29:28.674Z] Session [7c79a650-9bb2-11e6-95c8-bb0e63048be6] - page.onError - stack:
+  defaultOnError (http://online-shoping.myavactis.com/pub/static/adminhtml/Avactis/backend/en_US/requirejs/require.js:141)
+  onError (http://online-shoping.myavactis.com/pub/static/adminhtml/Avactis/backend/en_US/requirejs/require.js:537)
+  onScriptError (http://online-shoping.myavactis.com/pub/static/adminhtml/Avactis/backend/en_US/requirejs/require.js:1681)
+[ERROR - 2016-10-26T19:29:28.677Z] Session [7c79a650-9bb2-11e6-95c8-bb0e63048be6] - page.onError - msg: Error: Script error for: Magento_Ui/js/lib/knockout/bindings/datepicker
+http://requirejs.org/docs/errors.html#scripterror
+[ERROR - 2016-10-26T19:29:28.679Z] Session [7c79a650-9bb2-11e6-95c8-bb0e63048be6] - page.onError - stack:
+  defaultOnError (http://online-shoping.myavactis.com/pub/static/adminhtml/Avactis/backend/en_US/requirejs/require.js:141)
+  onError (http://online-shoping.myavactis.com/pub/static/adminhtml/Avactis/backend/en_US/requirejs/require.js:537)
+  onScriptError (http://online-shoping.myavactis.com/pub/static/adminhtml/Avactis/backend/en_US/requirejs/require.js:1681)
+[ERROR - 2016-10-26T19:29:28.681Z] Session [7c79a650-9bb2-11e6-95c8-bb0e63048be6] - page.onError - msg: Error: Script error for: Magento_Ui/js/lib/knockout/template/loader
+http://requirejs.org/docs/errors.html#scripterror
+[ERROR - 2016-10-26T19:29:28.682Z] Session [7c79a650-9bb2-11e6-95c8-bb0e63048be6] - page.onError - stack:
+  defaultOnError (http://online-shoping.myavactis.com/pub/static/adminhtml/Avactis/backend/en_US/requirejs/require.js:141)
+  onError (http://online-shoping.myavactis.com/pub/static/adminhtml/Avactis/backend/en_US/requirejs/require.js:537)
+  onScriptError (http://online-shoping.myavactis.com/pub/static/adminhtml/Avactis/backend/en_US/requirejs/require.js:1681)
+[ERROR - 2016-10-26T19:29:28.684Z] Session [7c79a650-9bb2-11e6-95c8-bb0e63048be6] - page.onError - msg: Error: Script error for: es6-collections
+http://requirejs.org/docs/errors.html#scripterror
+[ERROR - 2016-10-26T19:29:28.689Z] Session [7c79a650-9bb2-11e6-95c8-bb0e63048be6] - page.onError - stack:
+  defaultOnError (http://online-shoping.myavactis.com/pub/static/adminhtml/Avactis/backend/en_US/requirejs/require.js:141)
+  onError (http://online-shoping.myavactis.com/pub/static/adminhtml/Avactis/backend/en_US/requirejs/require.js:537)
+  onScriptError (http://online-shoping.myavactis.com/pub/static/adminhtml/Avactis/backend/en_US/requirejs/require.js:1681)
+[ERROR - 2016-10-26T19:29:28.691Z] Session [7c79a650-9bb2-11e6-95c8-bb0e63048be6] - page.onError - msg: Error: Script error for: Magento_Ui/js/lib/knockout/bindings/tooltip
+http://requirejs.org/docs/errors.html#scripterror
+[ERROR - 2016-10-26T19:29:28.717Z] Session [7c79a650-9bb2-11e6-95c8-bb0e63048be6] - page.onError - stack:
+  defaultOnError (http://online-shoping.myavactis.com/pub/static/adminhtml/Avactis/backend/en_US/requirejs/require.js:141)
+  onError (http://online-shoping.myavactis.com/pub/static/adminhtml/Avactis/backend/en_US/requirejs/require.js:537)
+  onScriptError (http://online-shoping.myavactis.com/pub/static/adminhtml/Avactis/backend/en_US/requirejs/require.js:1681)
+[ERROR - 2016-10-26T19:29:28.723Z] Session [7c79a650-9bb2-11e6-95c8-bb0e63048be6] - page.onError - msg: Error: Script error for: mage/utils/wrapper
+http://requirejs.org/docs/errors.html#scripterror
+[ERROR - 2016-10-26T19:29:28.724Z] Session [7c79a650-9bb2-11e6-95c8-bb0e63048be6] - page.onError - stack:
+  defaultOnError (http://online-shoping.myavactis.com/pub/static/adminhtml/Avactis/backend/en_US/requirejs/require.js:141)
+  onError (http://online-shoping.myavactis.com/pub/static/adminhtml/Avactis/backend/en_US/requirejs/require.js:537)
+  onScriptError (http://online-shoping.myavactis.com/pub/static/adminhtml/Avactis/backend/en_US/requirejs/require.js:1681)
+[ERROR - 2016-10-26T19:29:28.727Z] Session [7c79a650-9bb2-11e6-95c8-bb0e63048be6] - page.onError - msg: Error: Script error for: Magento_Ui/js/lib/knockout/bindings/fadeVisible
+http://requirejs.org/docs/errors.html#scripterror
+[ERROR - 2016-10-26T19:29:28.750Z] Session [7c79a650-9bb2-11e6-95c8-bb0e63048be6] - page.onError - stack:
+  defaultOnError (http://online-shoping.myavactis.com/pub/static/adminhtml/Avactis/backend/en_US/requirejs/require.js:141)
+  onError (http://online-shoping.myavactis.com/pub/static/adminhtml/Avactis/backend/en_US/requirejs/require.js:537)
+  onScriptError (http://online-shoping.myavactis.com/pub/static/adminhtml/Avactis/backend/en_US/requirejs/require.js:1681)
+[ERROR - 2016-10-26T19:29:28.757Z] Session [7c79a650-9bb2-11e6-95c8-bb0e63048be6] - page.onError - msg: Error: Script error for: Magento_Ui/js/lib/registry/registry
+http://requirejs.org/docs/errors.html#scripterror
+[ERROR - 2016-10-26T19:29:28.758Z] Session [7c79a650-9bb2-11e6-95c8-bb0e63048be6] - page.onError - stack:
+  defaultOnError (http://online-shoping.myavactis.com/pub/static/adminhtml/Avactis/backend/en_US/requirejs/require.js:141)
+  onError (http://online-shoping.myavactis.com/pub/static/adminhtml/Avactis/backend/en_US/requirejs/require.js:537)
+  onScriptError (http://online-shoping.myavactis.com/pub/static/adminhtml/Avactis/backend/en_US/requirejs/require.js:1681)
+[ERROR - 2016-10-26T19:29:28.761Z] Session [7c79a650-9bb2-11e6-95c8-bb0e63048be6] - page.onError - msg: Error: Script error for: mage/utils/main
+http://requirejs.org/docs/errors.html#scripterror
+[ERROR - 2016-10-26T19:29:28.763Z] Session [7c79a650-9bb2-11e6-95c8-bb0e63048be6] - page.onError - stack:
+  defaultOnError (http://online-shoping.myavactis.com/pub/static/adminhtml/Avactis/backend/en_US/requirejs/require.js:141)
+  onError (http://online-shoping.myavactis.com/pub/static/adminhtml/Avactis/backend/en_US/requirejs/require.js:537)
+  onScriptError (http://online-shoping.myavactis.com/pub/static/adminhtml/Avactis/backend/en_US/requirejs/require.js:1681)
+[ERROR - 2016-10-26T19:29:28.764Z] Session [7c79a650-9bb2-11e6-95c8-bb0e63048be6] - page.onError - msg: Error: Script error for: Magento_Ui/js/lib/core/class
+http://requirejs.org/docs/errors.html#scripterror
+[ERROR - 2016-10-26T19:29:28.765Z] Session [7c79a650-9bb2-11e6-95c8-bb0e63048be6] - page.onError - stack:
+  defaultOnError (http://online-shoping.myavactis.com/pub/static/adminhtml/Avactis/backend/en_US/requirejs/require.js:141)
+  onError (http://online-shoping.myavactis.com/pub/static/adminhtml/Avactis/backend/en_US/requirejs/require.js:537)
+  onScriptError (http://online-shoping.myavactis.com/pub/static/adminhtml/Avactis/backend/en_US/requirejs/require.js:1681)
+[ERROR - 2016-10-26T19:29:28.767Z] Session [7c79a650-9bb2-11e6-95c8-bb0e63048be6] - page.onError - msg: Error: Script error for: Magento_Ui/js/lib/knockout/bindings/collapsible
+http://requirejs.org/docs/errors.html#scripterror
+[ERROR - 2016-10-26T19:29:28.773Z] Session [7c79a650-9bb2-11e6-95c8-bb0e63048be6] - page.onError - stack:
+  defaultOnError (http://online-shoping.myavactis.com/pub/static/adminhtml/Avactis/backend/en_US/requirejs/require.js:141)
+  onError (http://online-shoping.myavactis.com/pub/static/adminhtml/Avactis/backend/en_US/requirejs/require.js:537)
+  onScriptError (http://online-shoping.myavactis.com/pub/static/adminhtml/Avactis/backend/en_US/requirejs/require.js:1681)
+[ERROR - 2016-10-26T19:29:28.774Z] Session [7c79a650-9bb2-11e6-95c8-bb0e63048be6] - page.onError - msg: Error: Script error for: Magento_Ui/js/lib/core/events
+http://requirejs.org/docs/errors.html#scripterror
+[ERROR - 2016-10-26T19:29:28.775Z] Session [7c79a650-9bb2-11e6-95c8-bb0e63048be6] - page.onError - stack:
+  defaultOnError (http://online-shoping.myavactis.com/pub/static/adminhtml/Avactis/backend/en_US/requirejs/require.js:141)
+  onError (http://online-shoping.myavactis.com/pub/static/adminhtml/Avactis/backend/en_US/requirejs/require.js:537)
+  onScriptError (http://online-shoping.myavactis.com/pub/static/adminhtml/Avactis/backend/en_US/requirejs/require.js:1681)
+[ERROR - 2016-10-26T19:29:28.776Z] Session [7c79a650-9bb2-11e6-95c8-bb0e63048be6] - page.onError - msg: Error: Script error for: Magento_Ui/js/lib/knockout/bindings/simple-checked
+http://requirejs.org/docs/errors.html#scripterror
+[ERROR - 2016-10-26T19:29:28.777Z] Session [7c79a650-9bb2-11e6-95c8-bb0e63048be6] - page.onError - stack:
+  defaultOnError (http://online-shoping.myavactis.com/pub/static/adminhtml/Avactis/backend/en_US/requirejs/require.js:141)
+  onError (http://online-shoping.myavactis.com/pub/static/adminhtml/Avactis/backend/en_US/requirejs/require.js:537)
+  onScriptError (http://online-shoping.myavactis.com/pub/static/adminhtml/Avactis/backend/en_US/requirejs/require.js:1681)
+[ERROR - 2016-10-26T19:29:28.778Z] Session [7c79a650-9bb2-11e6-95c8-bb0e63048be6] - page.onError - msg: Error: Script error for: Magento_Ui/js/lib/view/utils/async
+http://requirejs.org/docs/errors.html#scripterror
+[ERROR - 2016-10-26T19:29:28.779Z] Session [7c79a650-9bb2-11e6-95c8-bb0e63048be6] - page.onError - stack:
+  defaultOnError (http://online-shoping.myavactis.com/pub/static/adminhtml/Avactis/backend/en_US/requirejs/require.js:141)
+  onError (http://online-shoping.myavactis.com/pub/static/adminhtml/Avactis/backend/en_US/requirejs/require.js:537)
+  onScriptError (http://online-shoping.myavactis.com/pub/static/adminhtml/Avactis/backend/en_US/requirejs/require.js:1681)
+[ERROR - 2016-10-26T19:29:44.240Z] Session [7c79a650-9bb2-11e6-95c8-bb0e63048be6] - page.onError - msg: Error: Script error for: mage/utils/objects
+http://requirejs.org/docs/errors.html#scripterror
+[ERROR - 2016-10-26T19:29:44.241Z] Session [7c79a650-9bb2-11e6-95c8-bb0e63048be6] - page.onError - stack:
+  defaultOnError (http://online-shoping.myavactis.com/pub/static/adminhtml/Avactis/backend/en_US/requirejs/require.js:141)
+  onError (http://online-shoping.myavactis.com/pub/static/adminhtml/Avactis/backend/en_US/requirejs/require.js:537)
+  onScriptError (http://online-shoping.myavactis.com/pub/static/adminhtml/Avactis/backend/en_US/requirejs/require.js:1681)
+[ERROR - 2016-10-26T19:29:44.242Z] Session [7c79a650-9bb2-11e6-95c8-bb0e63048be6] - page.onError - msg: Error: Script error for: mage/utils/strings
+http://requirejs.org/docs/errors.html#scripterror
+[ERROR - 2016-10-26T19:29:44.243Z] Session [7c79a650-9bb2-11e6-95c8-bb0e63048be6] - page.onError - stack:
+  defaultOnError (http://online-shoping.myavactis.com/pub/static/adminhtml/Avactis/backend/en_US/requirejs/require.js:141)
+  onError (http://online-shoping.myavactis.com/pub/static/adminhtml/Avactis/backend/en_US/requirejs/require.js:537)
+  onScriptError (http://online-shoping.myavactis.com/pub/static/adminhtml/Avactis/backend/en_US/requirejs/require.js:1681)
+[ERROR - 2016-10-26T19:29:44.245Z] Session [7c79a650-9bb2-11e6-95c8-bb0e63048be6] - page.onError - msg: Error: Script error for: Magento_Ui/js/lib/view/utils/bindings
+http://requirejs.org/docs/errors.html#scripterror
+[ERROR - 2016-10-26T19:29:44.246Z] Session [7c79a650-9bb2-11e6-95c8-bb0e63048be6] - page.onError - stack:
+  defaultOnError (http://online-shoping.myavactis.com/pub/static/adminhtml/Avactis/backend/en_US/requirejs/require.js:141)
+  onError (http://online-shoping.myavactis.com/pub/static/adminhtml/Avactis/backend/en_US/requirejs/require.js:537)
+  onScriptError (http://online-shoping.myavactis.com/pub/static/adminhtml/Avactis/backend/en_US/requirejs/require.js:1681)
+[ERROR - 2016-10-26T19:29:44.247Z] Session [7c79a650-9bb2-11e6-95c8-bb0e63048be6] - page.onError - msg: Error: Script error for: mage/utils/template
+http://requirejs.org/docs/errors.html#scripterror
+[ERROR - 2016-10-26T19:29:44.248Z] Session [7c79a650-9bb2-11e6-95c8-bb0e63048be6] - page.onError - stack:
+  defaultOnError (http://online-shoping.myavactis.com/pub/static/adminhtml/Avactis/backend/en_US/requirejs/require.js:141)
+  onError (http://online-shoping.myavactis.com/pub/static/adminhtml/Avactis/backend/en_US/requirejs/require.js:537)
+  onScriptError (http://online-shoping.myavactis.com/pub/static/adminhtml/Avactis/backend/en_US/requirejs/require.js:1681)
+[ERROR - 2016-10-26T19:29:44.248Z] Session [7c79a650-9bb2-11e6-95c8-bb0e63048be6] - page.onError - msg: Error: Script error for: mage/utils/compare
+http://requirejs.org/docs/errors.html#scripterror
+[ERROR - 2016-10-26T19:29:44.249Z] Session [7c79a650-9bb2-11e6-95c8-bb0e63048be6] - page.onError - stack:
+  defaultOnError (http://online-shoping.myavactis.com/pub/static/adminhtml/Avactis/backend/en_US/requirejs/require.js:141)
+  onError (http://online-shoping.myavactis.com/pub/static/adminhtml/Avactis/backend/en_US/requirejs/require.js:537)
+  onScriptError (http://online-shoping.myavactis.com/pub/static/adminhtml/Avactis/backend/en_US/requirejs/require.js:1681)
+[ERROR - 2016-10-26T19:29:44.250Z] Session [7c79a650-9bb2-11e6-95c8-bb0e63048be6] - page.onError - msg: Error: Script error for: jquery/jquery-ui-timepicker-addon
+http://requirejs.org/docs/errors.html#scripterror
+[ERROR - 2016-10-26T19:29:44.251Z] Session [7c79a650-9bb2-11e6-95c8-bb0e63048be6] - page.onError - stack:
+  defaultOnError (http://online-shoping.myavactis.com/pub/static/adminhtml/Avactis/backend/en_US/requirejs/require.js:141)
+  onError (http://online-shoping.myavactis.com/pub/static/adminhtml/Avactis/backend/en_US/requirejs/require.js:537)
+  onScriptError (http://online-shoping.myavactis.com/pub/static/adminhtml/Avactis/backend/en_US/requirejs/require.js:1681)
+[ERROR - 2016-10-26T19:29:44.252Z] Session [7c79a650-9bb2-11e6-95c8-bb0e63048be6] - page.onError - msg: Error: Script error for: Magento_Ui/js/lib/view/utils/dom-observer
+http://requirejs.org/docs/errors.html#scripterror
+[ERROR - 2016-10-26T19:29:44.252Z] Session [7c79a650-9bb2-11e6-95c8-bb0e63048be6] - page.onError - stack:
+  defaultOnError (http://online-shoping.myavactis.com/pub/static/adminhtml/Avactis/backend/en_US/requirejs/require.js:141)
+  onError (http://online-shoping.myavactis.com/pub/static/adminhtml/Avactis/backend/en_US/requirejs/require.js:537)
+  onScriptError (http://online-shoping.myavactis.com/pub/static/adminhtml/Avactis/backend/en_US/requirejs/require.js:1681)
+[ERROR - 2016-10-26T19:29:44.253Z] Session [7c79a650-9bb2-11e6-95c8-bb0e63048be6] - page.onError - msg: Error: Script error for: mage/utils/arrays
+http://requirejs.org/docs/errors.html#scripterror
+[ERROR - 2016-10-26T19:29:44.254Z] Session [7c79a650-9bb2-11e6-95c8-bb0e63048be6] - page.onError - stack:
+  defaultOnError (http://online-shoping.myavactis.com/pub/static/adminhtml/Avactis/backend/en_US/requirejs/require.js:141)
+  onError (http://online-shoping.myavactis.com/pub/static/adminhtml/Avactis/backend/en_US/requirejs/require.js:537)
+  onScriptError (http://online-shoping.myavactis.com/pub/static/adminhtml/Avactis/backend/en_US/requirejs/require.js:1681)
+[ERROR - 2016-10-26T19:29:44.255Z] Session [7c79a650-9bb2-11e6-95c8-bb0e63048be6] - page.onError - msg: Error: Script error for: mage/utils/misc
+http://requirejs.org/docs/errors.html#scripterror
+[ERROR - 2016-10-26T19:29:44.255Z] Session [7c79a650-9bb2-11e6-95c8-bb0e63048be6] - page.onError - stack:
+  defaultOnError (http://online-shoping.myavactis.com/pub/static/adminhtml/Avactis/backend/en_US/requirejs/require.js:141)
+  onError (http://online-shoping.myavactis.com/pub/static/adminhtml/Avactis/backend/en_US/requirejs/require.js:537)
+  onScriptError (http://online-shoping.myavactis.com/pub/static/adminhtml/Avactis/backend/en_US/requirejs/require.js:1681)
+[INFO  - 2016-10-26T19:30:30.603Z] ShutdownReqHand - _handle - About to shutdown
